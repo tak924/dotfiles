@@ -1,0 +1,11 @@
+[user]
+	name = tak
+	email = tal924+git@gmail.com
+[github]
+	user = tak924
+[push]
+	default = simple
+[color]
+	diff = auto
+[core]
+	editor = vim
